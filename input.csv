@@ -1,2 +1,2 @@
-a,/path/to/input/a.fasta
-b,/path/to/input/b.fasta
+a,gs://nf-data/covid-input/a.fasta
+b,gs://nf-data/covid-input/b.fasta
